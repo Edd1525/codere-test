@@ -1,4 +1,4 @@
-#Codere Playwright Tests
+# Codere Playwright Tests
 This project contains automated tests for the Codere application using the Playwright framework.
 
 Prerequisites
